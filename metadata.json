@@ -1,0 +1,6 @@
+{
+  "name": "Ollama Status Window",
+  "description": "Isekai status window HUD interface for interacting with local Ollama models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
